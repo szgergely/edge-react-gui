@@ -27,6 +27,7 @@
     "react/no-typos": "error",
     "react/prop-types": 0,
     "react/self-closing-comp": ["error", { "component": true }],
+    "simple-import-sort/sort": "error",
     "no-prototype-builtins": "off",
     "react/jsx-handler-names": "off",
     "react-native/sort-styles": "off"
