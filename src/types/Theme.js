@@ -147,5 +147,6 @@ export type Theme = {
   settingsFoxExchangeLogo: string,
   settingsGodexLogo: string,
   settingsSwitchainLogo: string,
+  settingsSideShiftLogo: string,
   settingsTotleLogo: string
 }
