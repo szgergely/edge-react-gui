@@ -9,7 +9,7 @@ import defaultLogo from '../../assets/images/exchange/settingsExchangeDefault.pn
 import faastLogo from '../../assets/images/exchange/settingsExchangeFaast.png'
 import foxExchangeLogo from '../../assets/images/exchange/settingsExchangeFoxExchange.png'
 import godexLogo from '../../assets/images/exchange/settingsExchangeGodex.png'
-import sideShiftLogo from '../../assets/images/exchange/settingsExchangeSideShiftAI.png'
+import sideshiftLogo from '../../assets/images/exchange/settingsExchangeSideShiftAI.png'
 import switchainLogo from '../../assets/images/exchange/settingsExchangeSwitchain.png'
 import totleLogo from '../../assets/images/exchange/settingsExchangeTotle.png'
 import { type Theme } from '../../types/Theme.js'
@@ -192,7 +192,7 @@ export const edgeLight: Theme = {
   settingsFaastLogo: faastLogo,
   settingsFoxExchangeLogo: foxExchangeLogo,
   settingsGodexLogo: godexLogo,
-  settingsSideShiftLogo: sideShiftLogo,
+  settingsSideshiftLogo: sideshiftLogo,
   settingsSwitchainLogo: switchainLogo,
   settingsTotleLogo: totleLogo
 }
